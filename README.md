@@ -5,6 +5,7 @@ I'm a self-taught software engineer from Italy. 🇮🇹
 What I'm building in public now:
 - **NeoTunes**: iTunes® in 2026, written in Flutter (currently in Beta)
 - **[h3.c](https://github.com/neokree/h3.c)**: MiniMax H3 video model running on a MacBook Pro (contributing to antirez's work)
+- **[YuE² Studio](https://github.com/neokree/yue-studio)**: an unofficial macOS app for the YuE2 open music model. Songs and covers made locally on your Mac, no cloud
 
 **Startups** I'm currently involved with:
 - **[Rondo](https://getrondo.ai)**: Helps e-commerce brands decide what to restock and when. I work on the agent-driven dev workflow. 
